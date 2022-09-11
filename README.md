@@ -2,10 +2,10 @@
 ### First Stage
 
 ## Structure
-* [Exploratory Data Analysis]()
-* [ML Pipeline]()
-* [IOS model]()
-* [Android model]()
+* [Exploratory Data Analysis](https://github.com/Tsalyk/IASA-DS-CHAMP-TEST_TASK/blob/main/genesis_eda.ipynb)
+* [ML Pipeline](https://github.com/Tsalyk/IASA-DS-CHAMP-TEST_TASK/blob/main/genesis_pipeline.ipynb)
+* [IOS model](https://github.com/Tsalyk/IASA-DS-CHAMP-TEST_TASK/tree/main/ios)
+* [Android model](https://github.com/Tsalyk/IASA-DS-CHAMP-TEST_TASK/tree/main/android)
 
 ## KOD Squad
 [Markiian Tsalyk](https://www.linkedin.com/in/markiian-tsalyk-193758224/) – IT&BA UCU APPS student
