@@ -1,11 +1,19 @@
 ## IASA Data Science Champ 2022
 ### First Stage
+***
 
 ## Structure
 * [Exploratory Data Analysis](https://github.com/Tsalyk/IASA-DS-CHAMP-TEST_TASK/blob/main/genesis_eda.ipynb)
 * [ML Pipeline](https://github.com/Tsalyk/IASA-DS-CHAMP-TEST_TASK/blob/main/genesis_pipeline.ipynb)
 * [IOS model](https://github.com/Tsalyk/IASA-DS-CHAMP-TEST_TASK/tree/main/ios)
 * [Android model](https://github.com/Tsalyk/IASA-DS-CHAMP-TEST_TASK/tree/main/android)
+
+## Final Metrics
+All metrics are saved in [json file](https://github.com/Tsalyk/IASA-DS-CHAMP-TEST_TASK/blob/main/metrics.json).
+
+$RMSE = 1.1067$
+
+$MAE = 0.3994$
 
 ## KOD Squad
 [Markiian Tsalyk](https://www.linkedin.com/in/markiian-tsalyk-193758224/) – IT&BA UCU APPS student
